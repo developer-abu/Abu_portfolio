@@ -7,7 +7,7 @@ import ContactForms from '../component/ContactForms'
 import Footer from '../component/Footer'
 const Home = () => {
   return (
-<div className='bg-[linear-gradient(135deg,#01192C_0%,#032441_50%,#072C50_100%)] p-5'>
+<div className='overflow-x-clip bg-[linear-gradient(135deg,#01192C_0%,#032441_50%,#072C50_100%)]'>
   <Header/>
   <Description/>
   <SkillIcon/>
