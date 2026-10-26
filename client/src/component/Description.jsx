@@ -41,22 +41,22 @@ I enjoy solving complex problems, learning new technologies, and continuously im
 {/* all the button */}
          <div className='mt-3'>
             <motion.button 
-            initial={{ opacity: 0, x: 60 }}
-            whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, y: 10 }}
+            whileInView={{ opacity: 1, y: 0 }}
             whileHover={{scale:1.1}}
             transition={{ duration: 0.5 }}
             className=' text-white bg-[#FF4C2F] max-[300px]:text-xs px-2 py-2 mobile:px-3 mobile:py-3 rounded-md mr-5 hover:bg-[#00C6FA]'>Download CV</motion.button>
 
             <motion.button
-initial={{ opacity: 0, x: -60 }}
-whileInView={{ opacity: 1, x: 0 }}
+initial={{ opacity: 0, y: -10 }}
+whileInView={{ opacity: 1, y: 0 }}
 whileHover={{scale:1.1}}
 transition={{ duration: 0.5 }}
             className='text-white bg-[#FF4C2F] max-[300px]:text-xs px-2 py-2 mobile:px-3 mobile:py-3 rounded-md hover:bg-[#00C6FA]'>Contact Me</motion.button>
          </div>
          <motion.div 
-initial={{ opacity: 0, x: 60 }}
-whileInView={{ opacity: 1, x: 0 }}
+initial={{ opacity: 0, y: 10 }}
+whileInView={{ opacity: 1, y: 0 }}
 transition={{ duration: 0.5 }}
          className='flex flex-wrap gap-2 mobile-lg:gap-3 mt-5'>
           <button className='bg-[#00C6FA] hover:bg-[#FF4C2F] p-2 rounded-md'> <a href="https://facebook.com/yourusername" aria-label="Facebook"><FaFacebookF size={35} /></a></button>
