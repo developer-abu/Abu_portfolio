@@ -8,7 +8,7 @@ import { FaGithub } from "react-icons/fa";
 const Description = () => {
   return (
     // description tittle 
-    <div className='w-full mobile:w-[99%] mobile-lg:w-[90%] tablet:w-[88%] mx-auto border-2 border-[#254865] p-5 rounded-md'>
+    <div className='w-[98%] mobile:w-[96%] mobile-lg:w-[90%] tablet:w-[88%] mx-auto border-2 border-[#254865] p-5 rounded-md'>
       <h1 className='text-white text-4xl mobile:text-5xl mobile-lg:text-6xl tablet:text-7 font-extrabold'>Hi I'am <span className='text-[#FF4C2F]'>Abu Huraira Shaikh</span></h1> <br/>
       <h2 className='text-white text-3xl mobile:text-4xl mobile-lg:text-4xl tablet:text-5 font-extrabold'>I'am Professional 
 

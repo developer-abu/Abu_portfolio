@@ -4,7 +4,7 @@ const Footer = () => {
     const currentYear = new Date().getFullYear();
 
   return (
-    <div className='w-full mobile:w-[99%] mobile-lg:w-[90%] tablet:w-[88%] mx-auto border-2 border-[#254865] p-5 rounded-md mt-5'>
+    <div className='w-[98%] mobile:w-[96%] mobile-lg:w-[90%] tablet:w-[88%] mx-auto border-2 border-[#254865] p-5 rounded-md mt-5'>
 
 <h2 className='text-white text-4xl mobile:text-5xl mobile-lg:text-6xl tablet:text-7 font-extrabold'> Reach <span className='text-[#FF4C2F]'>Me</span> </h2>
 <hr className='hr_animated mt-2'/> <br/>

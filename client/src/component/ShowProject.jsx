@@ -4,7 +4,7 @@ import { FaReact, FaNodeJs } from "react-icons/fa";
 import {SiExpress,SiMongodb,SiTailwindcss,SiJsonwebtokens, SiJavascript} from "react-icons/si";
 const ShowProject = () => {
   return (
-    <div className='w-full mobile:w-[99%] mobile-lg:w-[90%] tablet:w-[88%] mx-auto mt-5 border-2 border-[#254865] py-5 px-3 rounded-md'>
+    <div className='w-[98%] mobile:w-[96%] mobile-lg:w-[90%] tablet:w-[88%] mx-auto mt-5 border-2 border-[#254865] py-5 px-3 rounded-md'>
 
 <h2 className='text-white text-4xl mobile:text-5xl mobile-lg:text-6xl tablet:text-7 font-extrabold'>Projects to be <span className='text-[#FF4C2F]'>Shown</span></h2> <br/>
 {/* heading above  */}
