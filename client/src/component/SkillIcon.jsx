@@ -47,9 +47,11 @@ className='flex flex-wrap items-center gap-3 justify-between'>
 {technologies.map(({ name, Icon }) => (
         <div
           key={name}
+          role="img"
+    aria-label={name}
           className="rounded-xl border border-[#163B59] bg-[#072C50] p-5 transition duration-300 hover:-translate-y-1 hover:border-[#00C6FA]"
         >
-          <Icon className="size-9 text-[#00C6FA]" />
+          <Icon  aria-hidden="true" className="size-9  text-[#00C6FA]" />
         </div>
       ))}
 

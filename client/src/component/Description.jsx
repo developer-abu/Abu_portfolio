@@ -37,10 +37,10 @@ const Description = () => {
         />
          </h2> <br/>
          {/* description body */}
-         <h5 className='text-md mobile:text-2xl tablet:text-3xl text-[#D7E3EF] font-semibold'>
+         <p className='text-md mobile:text-2xl tablet:text-3xl text-[#D7E3EF] font-semibold'>
 I'm a passionate Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with a strong foundation in building dynamic, scalable, and user-friendly web applications.
 I enjoy solving complex problems, learning new technologies, and continuously improving my skills through real-world projects.
-         </h5>
+         </p>
 {/* all the button */}
          <div className='mt-3'>
             <motion.button 

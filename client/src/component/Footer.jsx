@@ -13,7 +13,7 @@ const Footer = () => {
 
   <div className='bg-[#103B63] text-[#D7E3EF] rounded-md p-4 w-[45%] text-center'>
             <p className='text-sm text-[#FF4C2F]'>Email</p>
-            <h4 className='break-all'>hurairaofficialonly@gmail.com</h4>
+            <p className='break-all'>hurairaofficialonly@gmail.com</p>
             
         </div>
         <div className='bg-[#103B63]  text-[#D7E3EF] rounded-md p-4 w-[45%] text-center'>
@@ -25,8 +25,8 @@ const Footer = () => {
       </div>
 
         <div className='bg-[#103B63]  text-[#D7E3EF] rounded-md p-4 text-center mt-2'>
-      <h3>This Site Is Developed By Developer <span className='text-[#FF4C2F]'>Abu Huraira Shaikh</span> </h3>
-      <h3>© {currentYear} <span className='text-[#FF4C2F]'>Abu Huraira Shaikh</span> . All Right Reserved</h3>
+      <p>This Site Is Developed By Developer <span className='text-[#FF4C2F]'>Abu Huraira Shaikh</span> </p>
+      <p>© {currentYear} <span className='text-[#FF4C2F]'>Abu Huraira Shaikh</span> . All Right Reserved</p>
            
         </div>
     </div>

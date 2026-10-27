@@ -11,7 +11,7 @@ initial={{ opacity: 0, y: 20 }}
 whileInView={{ opacity: 1, y: 0 }}
 whileHover={{scale:0.9}}
 transition={{ duration: 0.5 }}
-loading="lazy"
+
 className='rounded-md w-[100%]'/>
 
 <motion.div 
@@ -22,7 +22,7 @@ whileInView={{ opacity: 1, y: 0 }}
 whileHover={{scale:1.2}}
 transition={{ duration: 0.7 }}
 className='h-30 w-30 mx-auto my-2 rounded-full'>
-    <img src="profile.webp" loading="lazy" alt="Abu Huraira Shaikh" className='rounded-full' />
+    <img src="profile.webp" alt="Abu Huraira Shaikh" className='rounded-full' />
 </motion.div>
         </div>
     </header>
