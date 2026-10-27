@@ -21,7 +21,7 @@ const ShowProject = () => {
         transition={{ duration: 0.5 }}
       className='w-full tablet:w-[50%]'>
         <div className='p-5 rounded-md w-full'>
-<img src="/v1.webp" alt="" 
+<img src="/v1.webp" alt="BizTrack" 
 className='h-50 mobile-lg:h-100 w-full rounded-md' />
         </div>
         <div>
@@ -43,8 +43,8 @@ className='h-50 mobile-lg:h-100 w-full rounded-md' />
 
           </div>
 <div className='flex justify-between p-5'>
-<button  className=' text-white bg-[#FF4C2F] max-[300px]:text-xs px-2 py-2 mobile:px-3 mobile:py-3 rounded-md mr-5 hover:bg-[#00C6FA]'>Live Demo</button>
-<button  className=' text-white bg-[#FF4C2F] max-[300px]:text-xs px-2 py-2 mobile:px-3 mobile:py-3 rounded-md mr-5 hover:bg-[#00C6FA]'>GitHub Repo</button>
+<button onclick="window.open('https://biz-track-two-lac.vercel.app/', '_blank')"  className=' text-white bg-[#FF4C2F] max-[300px]:text-xs px-2 py-2 mobile:px-3 mobile:py-3 rounded-md mr-5 hover:bg-[#00C6FA]'>Live Demo</button>
+<button onclick="window.open('https://github.com/developer-abu/BizTrack', '_blank')" className=' text-white bg-[#FF4C2F] max-[300px]:text-xs px-2 py-2 mobile:px-3 mobile:py-3 rounded-md mr-5 hover:bg-[#00C6FA]'>GitHub Repo</button>
 </div>
         </div>
       </motion.div>
@@ -57,7 +57,7 @@ className='h-50 mobile-lg:h-100 w-full rounded-md' />
         transition={{ duration: 0.5 }}
       className='w-full tablet:w-[50%]'>
       <div className='p-5 rounded-md w-full'>
-<img src="/v7.webp" alt="" 
+<img src="/v7.webp" alt="Velora" 
 className='h-50 mobile-lg:h-100 w-full rounded-md' />
         </div>
 
@@ -74,8 +74,8 @@ className='h-50 mobile-lg:h-100 w-full rounded-md' />
               </div>
           </div>
 <div className='flex justify-between p-5'>
-<button  className=' text-white bg-[#FF4C2F] max-[300px]:text-xs px-2 py-2 mobile:px-3 mobile:py-3 rounded-md mr-5 hover:bg-[#00C6FA]'>Live Demo</button>
-<button  className=' text-white bg-[#FF4C2F] max-[300px]:text-xs px-2 py-2 mobile:px-3 mobile:py-3 rounded-md mr-5 hover:bg-[#00C6FA]'>GitHub Repo</button>
+<button onclick="window.open('https://premiumvelora.netlify.app/', '_blank')"  className=' text-white bg-[#FF4C2F] max-[300px]:text-xs px-2 py-2 mobile:px-3 mobile:py-3 rounded-md mr-5 hover:bg-[#00C6FA]'>Live Demo</button>
+<button onclick="window.open('https://github.com/developer-abu/velora', '_blank')" className=' text-white bg-[#FF4C2F] max-[300px]:text-xs px-2 py-2 mobile:px-3 mobile:py-3 rounded-md mr-5 hover:bg-[#00C6FA]'>GitHub Repo</button>
 </div>
         </div>
 

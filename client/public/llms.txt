@@ -1,0 +1,62 @@
+# Abu Huraira Shaikh — Full Stack Web Developer
+
+> Abu Huraira Shaikh is a Full Stack Web Developer specializing in building modern, responsive, functional, and user-friendly websites and web applications using JavaScript, React.js, Node.js, Express.js, and MongoDB.
+
+## About
+
+Abu Huraira Shaikh is a professional Full Stack Web Developer who helps individuals, businesses, and brands establish their online presence through modern and reliable web solutions.
+
+He builds custom websites and web applications from scratch, focusing on responsive design, user-friendly experiences, clean code, maintainable architecture, and functional backend systems.
+
+From designing attractive frontend interfaces to developing secure backend functionality and integrating APIs, Abu Huraira delivers web solutions tailored to client requirements.
+
+## Services
+
+- Custom Full Stack Web Development
+- Frontend Development using React.js
+- Backend Development using Node.js and Express.js
+- Functional Web Application Development
+- Professional Portfolio Websites
+- Business and Brand Websites
+- Landing Pages and Multi-Page Websites
+- Responsive and Mobile-Friendly Web Design
+- REST API Development and Integration
+- MongoDB Database Integration
+- AI-based SEO and AI Optimization (AIO)
+
+## Technical Skills
+
+### Frontend Development
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
+
+### Backend Development
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+
+## Development Approach
+
+Abu Huraira focuses on creating web applications that are:
+
+- Modern and visually appealing
+- Responsive across mobile, tablet, and desktop devices
+- Functional and user-friendly
+- Built with clean and maintainable code
+- Tailored to specific business and project requirements
+
+## Portfolio
+
+Explore Abu Huraira Shaikh's portfolio to learn more about his web development projects, technical skills, and experience.
+
+- Website: https://developer-abu.me/
+
+## Contact
+
+For custom website development, full stack applications, frontend development, backend development, API integration, or AI optimization services, contact Abu Huraira Shaikh to discuss project requirements before placing an order.

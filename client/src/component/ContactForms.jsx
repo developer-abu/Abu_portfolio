@@ -52,7 +52,7 @@ setTimeout(() => {
 
 }
   return (
-    <div className='w-full mobile:w-[85%] mobile-lg:w-[75%] tablet:w-[55%] mx-auto mt-5 border-2 border-[#0F345C] p-5 rounded-md'>
+    <div id="contact" className='w-full mobile:w-[85%] mobile-lg:w-[75%] tablet:w-[55%] mx-auto mt-5 border-2 border-[#0F345C] p-5 rounded-md'>
       <h2 className='text-white text-4xl mobile:text-5xl mobile-lg:text-6xl tablet:text-7 font-extrabold'> Contact <span className='text-[#FF4C2F]'>Forms</span> </h2>
 <hr className='hr_animated mt-2'/> <br/>
 
