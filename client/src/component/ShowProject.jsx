@@ -21,7 +21,7 @@ const ShowProject = () => {
         transition={{ duration: 0.5 }}
       className='w-full tablet:w-[50%]'>
         <div className='p-5 rounded-md w-full'>
-<img src="/v1.webp" alt="BizTrack" 
+<img src="/v1.webp" alt="BizTrack" loading="lazy"
 className='h-50 mobile-lg:h-100 w-full rounded-md' />
         </div>
         <div>
@@ -57,7 +57,7 @@ className='h-50 mobile-lg:h-100 w-full rounded-md' />
         transition={{ duration: 0.5 }}
       className='w-full tablet:w-[50%]'>
       <div className='p-5 rounded-md w-full'>
-<img src="/v7.webp" alt="Velora" 
+<img src="/v7.webp" loading="lazy" alt="Velora" 
 className='h-50 mobile-lg:h-100 w-full rounded-md' />
         </div>
 
