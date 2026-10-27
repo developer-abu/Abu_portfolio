@@ -12,7 +12,7 @@ whileInView={{ opacity: 1, y: 0 }}
 whileHover={{scale:0.9}}
 transition={{ duration: 0.5 }}
 loading="lazy"
-className='rounded-md'/>
+className='rounded-md w-[100%]'/>
 
 <motion.div 
 // animation set up for logo img 
