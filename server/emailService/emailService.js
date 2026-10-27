@@ -10,7 +10,7 @@ const brevo = new BrevoClient({
 });
 
 const sender = {
-  name: "Abu Huraira | Portfolio",
+  name: "Abu Huraira Shaikh",
   email: process.env.MAIL_FROM,
 };
 
@@ -54,7 +54,8 @@ Thank you for contacting me through my portfolio.
 I have received your message and will reply as soon as possible.
 
 Best regards,
-Abu Huraira
+Abu Huraira Shaikh
+© ${new Date().getFullYear()} Copyright reserved to Abu Huraira Shaikh
       `,
     });
 

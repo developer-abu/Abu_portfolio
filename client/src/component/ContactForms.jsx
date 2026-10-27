@@ -45,6 +45,7 @@ setTimeout(() => {
 }, 2000);
 
 } catch (error) {
+  console.log(error)
  setResponseFromServer(error.response?.data?.message || "Message send failed!")
    setStatus("Send Message →");
 }
