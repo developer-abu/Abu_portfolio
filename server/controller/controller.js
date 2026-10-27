@@ -3,10 +3,7 @@ import { sendContactEmails } from "../emailService/emailService.js";
 
 
 export const heathCheckController = (req, res) => {
-  return res.status(200).json({
-    success: true,
-    message: "Server Is Running. Health Check Point",
-  });
+  return res.status(200).send("The health checkup of server is done and god in health")
 };
 
 export const contactMessageController = async (req, res) => {

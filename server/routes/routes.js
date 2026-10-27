@@ -4,7 +4,7 @@ import { validateUserInput } from '../middleware/zodValidation.js'
 
 const router = express.Router()
 
-router.get('/', validateUserInput,heathCheckController)
+router.get('/',heathCheckController)
 router.post('/contact', validateUserInput, contactMessageController)
 
 export default router
